@@ -4,22 +4,24 @@ const reviews_data = [
   {
     img: "../../media/photos/comments/Samuel_Fry.png",
     name: "Davide Romano",
-    comment: "Fruit Cocktail è fantastico! Le slot sono divertenti e i bonus sono generosi. 5 su 5!",
+    comment: "Fruit Cocktail is geweldig! De gokkasten zijn leuk en de bonussen zijn royaal. 5 van de 5 sterren!",
   },
   {
     img: "../../media/photos/comments/comment2.png",
     name: "Chiara De Luca",
-    comment: "Fruit Cocktail è la mia app di casinò preferita! Facile da usare e con tanti premi. 4.5 su 5!",
+    comment:
+      "Fruit Cocktail is mijn favoriete casino-app! Gemakkelijk te gebruiken en met veel prijzen. 4,5 van de 5 sterren!",
   },
   {
     img: "../../media/photos/comments/comment4.png",
     name: "Simone Giordano",
-    comment: "Adoro giocare su Fruit Cocktail. Le grafiche sono spettacolari e le vincite sono frequenti. 4.5 su 5!",
+    comment:
+      "Ik hou ervan om Fruit Cocktail te spelen. De graphics zijn spectaculair en de winsten zijn frequent. 4,5 van de 5 sterren!",
   },
   {
     img: "../../media/photos/comments/comment3.png",
     name: "Federica Moretti",
-    comment: "Adoro i colori e le funzionalità di Fruit Cocktail. Ogni partita è un'avventura. 5 su 5!",
+    comment: "Ik hou van de kleuren en functies van Fruit Cocktail. Elk spel is een avontuur. 5 van de 5 sterren!",
   },
 ];
 
